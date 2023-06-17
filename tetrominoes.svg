@@ -1,24 +1,26 @@
 <svg
     version="1.1"
-    width="700"
-    height="134"
-    viewBox="0 0 21 4"
+    width="2110"
+    height="410"
+    viewBox="0 0 211 41"
     preserveAspectRatio="xMinYMin meet"
     xmlns="http://www.w3.org/2000/svg">
 
     <defs>
         <pattern
             id="tetromino-grid"
-            width="1"
-            height="1"
-            patternUnits="userSpaceOnUse"
-            preserveAspectRatio="xMinYMin meet">
+            width="10"
+            height="10"
+            patternUnits="userSpaceOnUse">
 
             <rect
-                width="1"
-                height="1"
-                stroke="grey"
-                stroke-width="0.1" />
+                x="0.5"
+                y="0.5"
+                width="10"
+                height="10"
+                fill="none"
+                stroke="#ccc"
+                stroke-width="1" />
 
         </pattern>
     </defs>
