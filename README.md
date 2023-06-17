@@ -1,4 +1,6 @@
 # hinged-tetromino-image
+Resources for use in a code golf challenge ["Label a hinged tetromino"](https://codegolf.codidact.com/posts/288502).
+
 Some SVG images for explanation of hinged tetrominoes.
 - An image of the 22 hinged tetrominoes  
 [![the 22 hinged tetrominoes](hinged_tetrominoes.svg)](hinged_tetrominoes.svg)
