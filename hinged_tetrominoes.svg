@@ -1,0 +1,58 @@
+<svg
+    version="1.1"
+    width="2110"
+    height="410"
+    viewBox="-0.5 -0.5 211 41"
+    preserveAspectRatio="xMinYMin meet"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <pattern
+            id="tetromino-grid"
+            width="10"
+            height="10"
+            patternUnits="userSpaceOnUse">
+
+            <rect
+                width="10"
+                height="10"
+                fill="none"
+                stroke="#ccc"
+                stroke-width="1" />
+
+        </pattern>
+    </defs>
+
+    <rect
+        x="-0.5"
+        y="-0.5"
+        width="100%"
+        height="100%"
+        fill="url(#tetromino-grid)" />
+
+    <polygon
+        points="10,10 50,10 50,20 10,20"
+        fill="none"
+        stroke="black" />
+
+    <polygon
+        points="60,10 80,10 80,30 60,30"
+        fill="none"
+        stroke="black" />
+
+    <polygon
+        points="90,10 120,10 120,20 110,20 110,30 100,30 100,20 90,20"
+        fill="none"
+        stroke="black" />
+
+    <polygon
+        points="130,10 140,10 140,20 160,20 160,30 130,30"
+        fill="none"
+        stroke="black" />
+
+    <polygon
+        points="170,10 190,10 190,20 200,20 200,30 180,30 180,20 170,20"
+        fill="none"
+        stroke="black" />
+
+</svg>
